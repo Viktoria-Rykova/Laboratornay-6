@@ -83,7 +83,7 @@
 <h1>Тестовые примеры</h1>
 
 <h3>Раздел 1</h3> 
-![image](https://github.com/user-attachments/assets/b5913e2c-55d2-49e0-b9a5-1819c022e994)
+(images/example1.png)
 
 <h3>Раздел 2</h3>
 ![image](https://github.com/user-attachments/assets/82fd3bfd-c5ee-49e1-a5b3-5037e4a9de35)
