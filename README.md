@@ -83,7 +83,7 @@ R = ^(?=.*[A-Z])(?=.*[a-z])(?=.*\d)(?=.*[#?!@$_%/^|&*\-\\]).{12,}$
 <h1>Тестовые примеры</h1>
 
 <h3>Раздел 1</h3> 
-![image](https://github.com/user-attachments/assets/2c38018c-76dd-4dda-a51e-0b89064069da)
+![image](https://github.com/user-attachments/assets/185dfb84-4fca-40e1-9a65-cbfa61b08ca1)
 
 <h3>Раздел 2</h3>
 ![image](https://github.com/user-attachments/assets/ad7802b1-b6b0-4acc-b1bc-1fe77959888d)
