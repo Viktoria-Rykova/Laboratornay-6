@@ -81,9 +81,8 @@ R = \b4\d{12}(\d{3})?\b
 R = ^(?=.*[A-Z])(?=.*[a-z])(?=.*\d)(?=.*[#?!@$_%/^|&*\-\\]).{12,}$
 
 <h1>Тестовые примеры</h1>
+![image](https://github.com/user-attachments/assets/c33b468b-7209-40c3-a467-ef6c46660963)
 
-<h3>Раздел 1</h3> 
-![image](https://github.com/user-attachments/assets/185dfb84-4fca-40e1-9a65-cbfa61b08ca1)
 
 <h3>Раздел 2</h3>
 ![image](https://github.com/user-attachments/assets/ad7802b1-b6b0-4acc-b1bc-1fe77959888d)
