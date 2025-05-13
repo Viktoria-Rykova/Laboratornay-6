@@ -83,13 +83,14 @@
 <h1>Тестовые примеры</h1>
 
 <h3>Раздел 1</h3> 
-(images/example1.png)
+![image](https://github.com/user-attachments/assets/2c38018c-76dd-4dda-a51e-0b89064069da)
 
 <h3>Раздел 2</h3>
-![image](https://github.com/user-attachments/assets/82fd3bfd-c5ee-49e1-a5b3-5037e4a9de35)
+![image](https://github.com/user-attachments/assets/ad7802b1-b6b0-4acc-b1bc-1fe77959888d)
 
 <h3>Раздел 3</h3>
-![image](https://github.com/user-attachments/assets/50b33638-4849-4d37-9508-7b2045853865)
+![image](https://github.com/user-attachments/assets/88cd0863-ef41-44bc-b8b6-63fcbc2a0b08)
+
 
 
 
