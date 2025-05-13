@@ -82,7 +82,6 @@
 
 <h1>Тестовые примеры</h1>
 
-<h1>Регулярные выражения</h1>
 <h3>Раздел 1</h3> 
 ![image](https://github.com/user-attachments/assets/b5913e2c-55d2-49e0-b9a5-1819c022e994)
 
